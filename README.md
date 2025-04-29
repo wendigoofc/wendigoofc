@@ -1,10 +1,4 @@
 # WENDIGO
-Aspiring computer engineer with a sharp focus on performance, systems optimization, and hardware-software integration. I push myself daily to break limits, both mentally and physically, and I take pride in mastering the fundamentals of any field I step into.
-
-## What I’m Working Toward
-- Build powerful, efficient tools for real-time systems and performance-critical applications.
-
-## Skills & Tools
-- Languages: Python
-- Interests: Systems engineering, PC building, game engines, backend logic
-- Tools: Linux, Git, Visual Studio Code
+Cheat reseller with a keen eye for performance, optimization, and market trends. I push myself daily to break limits, both mentally and physically, and I take pride in mastering the fundamentals of any field I step into, including the underground gaming scene.
+## WHAT IM WORKING TOWARD
+Build a powerful, efficient cheat-selling platform with seamless customer experience.
