@@ -8,6 +8,3 @@ Aspiring computer engineer with a sharp focus on performance, systems optimizati
 - Languages: Python
 - Interests: Systems engineering, PC building, game engines, backend logic
 - Tools: Linux, Git, Visual Studio Code
-
-## Contact
-- Discord: wendigoofc
